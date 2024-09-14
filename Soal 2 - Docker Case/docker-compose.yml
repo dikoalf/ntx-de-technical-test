@@ -1,0 +1,20 @@
+version: "3"
+services:
+  api:  
+    build: ./api  # membuat image untuk layanan API dari Dockerfile yang ada di folder api
+    ports:
+      - "6000:6000"  # memetakan port 6000 di container ke port 6000 di host
+    networks:
+      - app-network  # menghubungkan layanan API ke jaringan 'app-network'
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:6000"]  # Mengecek apakah API merespon dengan sukses
+      interval: 30s  # Interval waktu antara pengecekan
+      timeout: 10s  # Batas waktu untuk menunggu respons dari perintah cek
+      retries: 3  # Jika gagal, percobaan akan diulang 3 kali sebelum dianggap gagal
+
+  etl:
+    build: ./etl  # membuat image untuk layanan ETL dari Dockerfile yang ada di folder etl
+    depends_on:
+      - api  # menentukan bahwa layanan ETL bergantung pada layanan API, jadi API akan dimulai lebih dulu
+    networks:
+      - app-network  # menghubungkan layanan ETL ke jaringan 'app-network'

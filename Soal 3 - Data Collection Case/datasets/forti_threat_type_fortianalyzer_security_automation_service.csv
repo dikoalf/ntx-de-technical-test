@@ -1,0 +1,15 @@
+threatType,title,link
+fortianalyzer_security_automation_service,Invalid TCP-UDP Port Traffic,https://www.fortiguard.com/encyclopedia/rhsp/29
+fortianalyzer_security_automation_service,Juniper Firewalls Log Parser,https://www.fortiguard.com/encyclopedia/rhsp/37
+fortianalyzer_security_automation_service,SonicWall Firewalls Log Parser,https://www.fortiguard.com/encyclopedia/rhsp/38
+fortianalyzer_security_automation_service,High Volume DNS Traffic,https://www.fortiguard.com/encyclopedia/rhsp/14
+fortianalyzer_security_automation_service,TCP DDoS Attack,https://www.fortiguard.com/encyclopedia/rhsp/36
+fortianalyzer_security_automation_service,Multiple Logon Failures,https://www.fortiguard.com/encyclopedia/rhsp/4
+fortianalyzer_security_automation_service,CheckPoint Log Parser,https://www.fortiguard.com/encyclopedia/rhsp/32
+fortianalyzer_security_automation_service,Generic CEF Log Parser,https://www.fortiguard.com/encyclopedia/rhsp/33
+fortianalyzer_security_automation_service,Malicious Mail Activities,https://www.fortiguard.com/encyclopedia/rhsp/34
+fortianalyzer_security_automation_service,McAfee Anti-Virus Log Parser,https://www.fortiguard.com/encyclopedia/rhsp/30
+fortianalyzer_security_automation_service,McAfee Firewall Syslog Log Parser,https://www.fortiguard.com/encyclopedia/rhsp/31
+fortianalyzer_security_automation_service,Phishing Attack Detected,https://www.fortiguard.com/encyclopedia/rhsp/35
+fortianalyzer_security_automation_service,Claroty Platform Log Parser,https://www.fortiguard.com/encyclopedia/rhsp/27
+fortianalyzer_security_automation_service,Nutanix Platform Log Parser,https://www.fortiguard.com/encyclopedia/rhsp/28

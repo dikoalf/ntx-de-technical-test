@@ -1,0 +1,4 @@
+threatType,title,link
+web_application_firewall,Check.Point.Quantum.Security.Gateways.Path.Traversal,https://www.fortiguard.com/encyclopedia/fadc/1002017394
+web_application_firewall,FG-VD-55760.0day,https://www.fortiguard.com/encyclopedia/fadc/1002017395
+web_application_firewall,PHP.CGI.Argument.Injection,https://www.fortiguard.com/encyclopedia/fadc/1002017393

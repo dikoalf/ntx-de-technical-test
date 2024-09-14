@@ -1,0 +1,21 @@
+threatType,title,link
+web_application_security,090502184 - Jenkins.LTS.Command.Line.Interface.Arbitrary.File.Read,https://www.fortiguard.com/encyclopedia/fwb/1090502184
+web_application_security,090502188 - SaltStack.Salt.API.SSH.Client.Command.Injection,https://www.fortiguard.com/encyclopedia/fwb/1090502188
+web_application_security,090502190 - MS.Windows.CVE-2024-30080.Code.Execution,https://www.fortiguard.com/encyclopedia/fwb/1090502190
+web_application_security,090502192 - Apache.OFBiz.Endpoints.Incorrect.Authorization.Code.Execution,https://www.fortiguard.com/encyclopedia/fwb/1090502192
+web_application_security,090502194 - Apache.OFBiz.xmlrpc.performCommand.Directory.Traversal,https://www.fortiguard.com/encyclopedia/fwb/1090502194
+web_application_security,090502161 - TerraMaster.TOS.RCE.chain.Remote.Code.Execution,https://www.fortiguard.com/encyclopedia/fwb/1090502161
+web_application_security,090502165 - TerraMaster.TOS.RCE.chain.Remote.Code.Execution,https://www.fortiguard.com/encyclopedia/fwb/1090502165
+web_application_security,090502169 - TerraMaster.TOS.RCE.chain.Remote.Code.Execution,https://www.fortiguard.com/encyclopedia/fwb/1090502169
+web_application_security,090502173 - MS.SharePoint.ChartWebPartDataStorage.Insecure.Deserialion,https://www.fortiguard.com/encyclopedia/fwb/1090502173
+web_application_security,090502176 - TP-LINK.TL-WR840N.oal_wan6_setIpAddr.Command.Injection,https://www.fortiguard.com/encyclopedia/fwb/1090502176
+web_application_security,090502179 - FortiOS.SSL-VPN.Enc.Buffer.Overflow,https://www.fortiguard.com/encyclopedia/fwb/1090502179
+web_application_security,090502181 - Ignite.Realtime.Openfire.CVE-2023-32315.Authentication.Bypass,https://www.fortiguard.com/encyclopedia/fwb/1090502181
+web_application_security,090502182 - ServiceNow.jvar_page_title.Jelly.Remote.Code.Execution,https://www.fortiguard.com/encyclopedia/fwb/1090502182
+web_application_security,090502156 - TP-Link.Archer.Devices.login.Directory.Traversal,https://www.fortiguard.com/encyclopedia/fwb/1090502156
+web_application_security,090502157 - Edu-Sharing.mimetype.Arbitrary.File.Upload,https://www.fortiguard.com/encyclopedia/fwb/1090502157
+web_application_security,090502159 - Apache.InLong.JDBC.URL.Arbitrary.File.Read,https://www.fortiguard.com/encyclopedia/fwb/1090502159
+web_application_security,090502134 - FG-VD-55760.0day,https://www.fortiguard.com/encyclopedia/fwb/1090502134
+web_application_security,090502152 - ALFA.TEaM.Web.Shell,https://www.fortiguard.com/encyclopedia/fwb/1090502152
+web_application_security,090502153 - Serenity.StartSharp.ImageUploadEditor.Arbitrary.File.Upload,https://www.fortiguard.com/encyclopedia/fwb/1090502153
+web_application_security,090502150 - Check.Point.Quantum.Security.Gateways.Path.Traversal,https://www.fortiguard.com/encyclopedia/fwb/1090502150
